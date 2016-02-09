@@ -1,5 +1,11 @@
 # Wechat Image Conversion
 
+## 注意
+
+1. 需要使用Python运行,且需要binascii包,推荐装一个winPython或是anaconda
+
+2. 不要外传,以免算法失效
+
 ## 使用指南
 
 ### 查找dat文件
