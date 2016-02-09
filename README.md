@@ -33,3 +33,5 @@
 3. 运行代码:python wic.py
 
 4. 查看out.jpg文件
+
+如果觉得能用,[知乎](https://www.zhihu.com/question/35056157/answer/85231763)点个赞吧...
