@@ -34,4 +34,17 @@
 
 4. 查看out.jpg文件
 
+或者:
+
+1. 在左侧下载处下载'Win下EXE.zip'文件,解压到文件夹
+
+2. 通过在电脑端发送color_sheet.jpg文件,得到dat文件,
+复制到程序文件夹,更名为color_trans.dat
+
+3. 把需要转换的文件复制进程序文件夹,更名为in.dat
+
+4. 运行wic.exe
+
+5. 查看out.jpg文件
+
 如果觉得能用,[知乎](https://www.zhihu.com/question/35056157/answer/85231763)点个赞吧...
