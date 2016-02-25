@@ -36,7 +36,7 @@
 
 或者:
 
-1. 在[百度云盘](http://pan.baidu.com/s/1kUyLboF) 密码: 6gr7,解压到文件夹
+1. 在[百度云盘](http://pan.baidu.com/s/1kUyLboF) 密码: 6gr7 下载WinEXE.zip文件,解压到文件夹
 
 2. 通过在电脑端发送color_sheet.jpg文件,得到dat文件,
 复制到程序文件夹,更名为color_trans.dat
