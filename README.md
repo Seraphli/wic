@@ -2,7 +2,8 @@
 
 ## 注意
 
-1. 需要使用Python运行,且需要binascii包,推荐装一个winPython或是anaconda
+1. 如果使用代码运行的话需要使用Python运行,且需要binascii包,推荐装一个winPython或是anaconda.
+如果使用的是编译后的exe运行则不需要Python,可以直接运行.
 
 2. 不要外传,以免算法失效
 
@@ -23,7 +24,15 @@
 然后在文件夹中搜索文件名,会找到一个和此保存的文件名相似的dat文件,
 然后查找前后.
 
-### 操作步骤
+### 操作步骤(两种方法选一种)
+
+1. 首先确认系统是否打开显示文件扩展名的选项.没有的话请谷歌或百度.
+
+2. 方法中所提到的"通过在电脑端发送color_sheet.jpg文件,得到dat文件",
+指的是将color_sheet.jpg文件发送到文件传输助手或是任意一位好友.
+主要目的是为了得到对应的dat文件.通过此文件明文与密文的对应关系来解码需要恢复的dat文件.
+
+#### 第一种方法
 
 1. 通过在电脑端发送color_sheet.jpg文件,得到dat文件,
 复制到代码文件夹,更名为color_trans.dat
@@ -34,9 +43,9 @@
 
 4. 查看out.jpg文件
 
-或者:
+#### 第二种方法
 
-1. 在[百度云盘](http://pan.baidu.com/s/1kUyLboF) 密码: 6gr7 下载WinEXE.zip文件,解压到文件夹
+1. 在[百度云盘](http://pan.baidu.com/s/1o8IOSyA) 密码: 8d31 下载WinEXE.zip文件,解压到文件夹
 
 2. 通过在电脑端发送color_sheet.jpg文件,得到dat文件,
 复制到程序文件夹,更名为color_trans.dat
